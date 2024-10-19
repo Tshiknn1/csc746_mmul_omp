@@ -57,7 +57,7 @@ Then make your way to a CPU compute node:
 
 Next, once you land on the compute node, execute the following commands to set up the environment for using LIKWID:
 
-    module load e4s/23.05
+    module load e4s/23.08
     spack env activate gcc
     spack load likwid   # note: this command may take up to 30 seconds to execute
 
