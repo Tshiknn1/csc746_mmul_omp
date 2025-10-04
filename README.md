@@ -133,6 +133,7 @@ cmake, look inside job-blocked-omp for more details.
 ## Configuring to use LIKWID on Perlmutter (Oct 2023)
 
 **the text that follows is from Oct 2023 and is out of date as of 10/2025**
+**DO NOT USE THESE COMMANDS -- They are here for historical reference only**
 
 As of the time of this writing (5 Oct 2023), please follow this sequence of steps exactly to use LIKWID
 on perlmutter.
@@ -160,9 +161,4 @@ Yes, you need to go through this sequence each time you want to use LIKWID. It d
 first set up your environment once on a login node then to hop onto a CPU node and just start running
 with LIKWID. Perhaps this situation will change in the future.
 
-# Adding your code
-
-For matrix multiplication:
-
-There are stub routines inside degemm-basic-omp.cpp and dgemm-blocked-omp.cpp where you can
 # eof
