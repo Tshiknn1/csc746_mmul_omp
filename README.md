@@ -132,7 +132,7 @@ cmake, look inside job-blocked-omp for more details.
 
 ## Configuring to use LIKWID on Perlmutter (Oct 2023)
 
-**the text that follows is from Oct 2023 and is out of date as of 10/2025**
+**the text that follows is from Oct 2023 and is out of date as of 10/2025**<br>
 **DO NOT USE THESE COMMANDS -- They are here for historical reference only**
 
 As of the time of this writing (5 Oct 2023), please follow this sequence of steps exactly to use LIKWID
