@@ -1,7 +1,6 @@
 #include <iostream>
 #include <omp.h>
 
-#define LIKWID_PERFMON  // TODO: comment this out
 #include "likwid-stuff.h"
 
 const char* dgemm_desc = "Basic implementation, OpenMP-enabled, three-loop dgemm.";

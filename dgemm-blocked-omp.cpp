@@ -5,7 +5,6 @@
 #include <vector>
 #include <cstring>
 
-#define LIKWID_PERFMON
 #include "likwid-stuff.h"
 
 const char* dgemm_desc = "Blocked dgemm, OpenMP-enabled";
